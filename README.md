@@ -54,7 +54,7 @@ Zero-Reference Deep Curve Estimation (Zero-DCE) formulates light enhancement as 
 ![Alt text](https://i.ibb.co/zSFRNVz/DCE-Training-and-Testing.png)
 
 ### PSNR value-
-![Alt text](https://i.ibb.co/0fSjMrR/DCE-PSNR.png)
+![Alt text](https://i.ibb.co/y4QRrj5/DCE-PSNR.jpg)
  
 
 
